@@ -41,6 +41,8 @@ Haga lo siguiente si usa su compilación personalizada de modernizr (http://www.
     	<p class="text-center"><strong>Descarga de formatos de trabajos según el área.</strong></p>
 		<p class="text-center">Fecha límite de recepción de trabajos: 13 de Septiembre de 2013.</p>
 		<h4 class="text-center"><p class="text-info"><em>Enviar trabajos a: depi@tecdecintalapa.edu.mx</em></p></h4>
+		<h4 class="text-center"><p class="text-info"><em>o utilizar el siguiente formulario para subir tu trabajo(formato: doc, docx, odt, pdf y no mas de 2mb):</em></p></h4>
+		<div align="center"><?php include 'upload/index.php'; ?></div><br>
 		<p class="text-center"><strong> Fecha de publicación de trabajos aceptados: 27 de Septiembre de 2013.</strong></p>
 		<p class="text-center">Tu trabajo será incluido en el libro electrónico, despues de haber realizado la inscripción correspondiente.</p>
 		<hr>
